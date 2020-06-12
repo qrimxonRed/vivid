@@ -1,0 +1,9 @@
+C:\Users\qrimx\Desktop\all-coursework-C#\Lab\CH5\CH5\lab2\bin\Debug\lab2.exe.config
+C:\Users\qrimx\Desktop\all-coursework-C#\Lab\CH5\CH5\lab2\bin\Debug\lab2.exe
+C:\Users\qrimx\Desktop\all-coursework-C#\Lab\CH5\CH5\lab2\bin\Debug\lab2.pdb
+C:\Users\qrimx\Desktop\all-coursework-C#\Lab\CH5\CH5\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\Users\qrimx\Desktop\all-coursework-C#\Lab\CH5\CH5\lab2\obj\Debug\lab2.Form1.resources
+C:\Users\qrimx\Desktop\all-coursework-C#\Lab\CH5\CH5\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\qrimx\Desktop\all-coursework-C#\Lab\CH5\CH5\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\qrimx\Desktop\all-coursework-C#\Lab\CH5\CH5\lab2\obj\Debug\lab2.exe
+C:\Users\qrimx\Desktop\all-coursework-C#\Lab\CH5\CH5\lab2\obj\Debug\lab2.pdb
